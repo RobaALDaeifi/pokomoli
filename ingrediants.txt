@@ -1,2 +1,4 @@
-*2 avocadaos
-*lime
+* chop avocadaos 
+* add salt 
+chop potato
+mix well 
